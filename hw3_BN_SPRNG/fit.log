@@ -1,0 +1,36 @@
+
+
+*******************************************************************************
+Tue Dec 24 14:21:25 2024
+
+
+FIT:    data read from 'buffon_data.txt' using (log10($1)):(log10($3))
+        format = x:z
+        #datapoints = 6
+        residuals are weighted equally (unit weight)
+
+function used for fitting: f(x)
+	f(x) = a * x + b
+fitted parameters initialized with current variable values
+
+iter      chisq       delta/lim  lambda   a             b            
+   0 3.7814153233e+02   0.00e+00  3.48e+00    1.000000e+00   1.000000e+00
+   3 1.0645356516e+00  -2.93e-01  3.48e-03   -5.887846e-01   7.007851e-01
+
+After 3 iterations the fit converged.
+final sum of squares of residuals : 1.06454
+rel. change during last iteration : -2.92517e-06
+
+degrees of freedom    (FIT_NDF)                        : 4
+rms of residuals      (FIT_STDFIT) = sqrt(WSSR/ndf)    : 0.515882
+variance of residuals (reduced chisquare) = WSSR/ndf   : 0.266134
+
+Final set of parameters            Asymptotic Standard Error
+=======================            ==========================
+a               = -0.588785        +/- 0.1233       (20.94%)
+b               = 0.700785         +/- 0.5936       (84.7%)
+
+correlation matrix of the fit parameters:
+                a      b      
+a               1.000 
+b              -0.935  1.000 

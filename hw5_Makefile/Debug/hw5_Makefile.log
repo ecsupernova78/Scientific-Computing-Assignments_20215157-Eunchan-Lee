@@ -1,0 +1,11 @@
+﻿  main.cpp
+C:\Supernova\#4_GIST\SeJunior\2nd Semester\과학계산 프로그래밍\Hw_SC\기말 과제\GitHub_upload_001\hw5_Makefile\main.cpp(11,1): warning C4005: '_CRT_SECURE_NO_WARNINGS': 매크로 재정의
+C:\Supernova\#4_GIST\SeJunior\2nd Semester\과학계산 프로그래밍\Hw_SC\기말 과제\GitHub_upload_001\hw5_Makefile\main.cpp : message : '_CRT_SECURE_NO_WARNINGS'의 이전 정의를 참조하십시오.
+C:\Supernova\#4_GIST\SeJunior\2nd Semester\과학계산 프로그래밍\Hw_SC\기말 과제\GitHub_upload_001\hw5_Makefile\main.cpp(12,1): warning C4005: '_USE_MATH_DEFINES': 매크로 재정의
+C:\Supernova\#4_GIST\SeJunior\2nd Semester\과학계산 프로그래밍\Hw_SC\기말 과제\GitHub_upload_001\hw5_Makefile\main.cpp : message : '_USE_MATH_DEFINES'의 이전 정의를 참조하십시오.
+  throw_needle.cpp
+C:\Supernova\#4_GIST\SeJunior\2nd Semester\과학계산 프로그래밍\Hw_SC\기말 과제\GitHub_upload_001\hw5_Makefile\throw_needle.cpp(9,1): warning C4005: '_USE_MATH_DEFINES': 매크로 재정의
+C:\Supernova\#4_GIST\SeJunior\2nd Semester\과학계산 프로그래밍\Hw_SC\기말 과제\GitHub_upload_001\hw5_Makefile\throw_needle.cpp : message : '_USE_MATH_DEFINES'의 이전 정의를 참조하십시오.
+C:\Supernova\#4_GIST\SeJunior\2nd Semester\과학계산 프로그래밍\Hw_SC\기말 과제\GitHub_upload_001\hw5_Makefile\throw_needle.cpp(20,15): warning C4244: '인수': 'time_t'에서 'unsigned int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+  코드를 생성하고 있습니다...
+  hw5_Makefile.vcxproj -> C:\Supernova\#4_GIST\SeJunior\2nd Semester\과학계산 프로그래밍\Hw_SC\기말 과제\GitHub_upload_001\hw5_Makefile\Debug\hw5_Makefile.exe
